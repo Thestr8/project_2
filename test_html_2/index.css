@@ -1,0 +1,41 @@
+.nama {
+    color: #4059ad;
+}
+
+body {
+    background-color: #ee7b30;
+    text-align: center;
+}
+
+.description {
+    color: #f0c808;
+}
+
+.manga_title {
+    color: brown;
+}
+
+.manga_name {
+    color: green;
+    list-style: none;
+}
+
+.manga_title_genre_rating {
+    color: purple;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.anime_recomendations {
+    color: darksalmon;
+}
+
+.animation_names {
+    list-style: none;
+}
+
+.anime_title_genre_rs {
+    color: cornsilk;
+    margin-left: auto;
+    margin-right: auto;
+}
